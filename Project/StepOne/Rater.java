@@ -1,3 +1,5 @@
+package StepOne;
+
 
 /**
  * Write a description of class Rater here.
